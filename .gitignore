@@ -1,1 +1,4 @@
 detectron2
+.vscode/
+.vs/
+*.DS_Store
